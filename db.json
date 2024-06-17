@@ -1,0 +1,48 @@
+{
+  "autenticacao": [
+    {
+      "id": "187cb7e5-e097-4224-8bc7-b610c855e2b1",
+      "senha": "123",
+      "email": "admin@abc.com"
+    },
+    {
+      "id": "ec37c83d-4b7f-458d-9e10-3fda7d37cd3e",
+      "senha": "123",
+      "email": "user@abc.com"
+    },
+    {
+      "id": "171022ee-09b0-468a-962a-9c0772753cd0",
+      "senha": "12345",
+      "email": "rommel@abc.com"
+    }
+  ],
+  "consulta": [
+    {
+      "id": 1,
+      "logradouro": "Rua Dez",
+      "bairro": "Cabral",
+      "estado": "MG",
+      "cidade": "Belo Horizonte",
+      "destino": "PUC Minas - Coração Eucarístico",
+      "turno": "Manhã"
+    },
+    {
+      "id": 2,
+      "logradouro": "Avenida Francisco de Sá",
+      "bairro": "Calafate",
+      "estado": "MG",
+      "cidade": "Belo Horizonte",
+      "destino": "PUC Minas - Barreiro",
+      "turno": "Noite"
+    },
+    {
+      "id": 3,
+      "logradouro": "Rua Z",
+      "bairro": "Riacho",
+      "estado": "MG",
+      "cidade": "Belo Horizonte",
+      "destino": "PUC Minas - Coração Eucarístico",
+      "turno": "Manhã"
+    }
+  ]
+}
