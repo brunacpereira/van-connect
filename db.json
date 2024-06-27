@@ -44,5 +44,23 @@
       "destino": "PUC Minas - Coração Eucarístico",
       "turno": "Manhã"
     }
+  ],
+  "instituicao": [
+    {
+      "id":1,
+      "nome": "PUC Barreiro"      
+    },
+    {
+      "id":2,
+      "nome": "UNA Centro"      
+    },
+    {
+      "id":3,
+      "nome": "UFMG Pampulha"      
+    },
+    {
+      "id":4,
+      "nome": "PUC Coração Eucarístico"      
+    }    
   ]
 }
